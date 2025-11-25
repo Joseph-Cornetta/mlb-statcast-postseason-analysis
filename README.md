@@ -1,3 +1,5 @@
+![Hard Hit Suppression Chart](hard_hit_suppression_chart.png)
+
 # MLB Statcast Postseason Pitching Analysis (2025)
 
 This project combines **data science** and **scouting-style evaluation** to analyze MLB postseason pitching using Statcast pitch-by-pitch tracking data.
